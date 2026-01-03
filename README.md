@@ -2,8 +2,7 @@
 Интересуюсь:
 - Программированием: языками C#, Python и инженерией Large Language Model; 
 
-Как связаться со мной
-  [KotingGG](https://discordapp.com/users/797078766044184596/) - Discord.
+[KotingGG](https://discordapp.com/users/797078766044184596/) - Discord.
 
 <br/>
 
