@@ -1,4 +1,4 @@
-## Hi there 👋 Here is Chang.
+## Hi there 👋 Here is Koting.
 - 💻 I am a junior llm engineer focused on building architecture for large language models and its implementation.
 - 🔭 I am interested in building architecture and implementing agents.
 
