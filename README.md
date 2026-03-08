@@ -1,6 +1,5 @@
 ## Hi there 👋 Here is Koting.
-- 💻 I am a junior llm engineer focused on building architecture for large language models and its implementation.
-- 🔭 I am interested in building architecture and implementing agents.
+- 💻🔭 LLM architecture, Research, LLM, AI, ML (Python); GameDev (C#);
 
 [kotinggg](https://discordapp.com/users/797078766044184596/) - my Discord.
 
