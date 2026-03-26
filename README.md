@@ -7,11 +7,10 @@
 - Sports/Olympic programming (C++);
 
 ### 📚 My skills:
-
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)
-![C++](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)
-![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="32" height="32" alt="Python" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="32" height="32" alt="C#" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="32" height="32" alt="Git" />
 
 ### 📊 My stats:
 
