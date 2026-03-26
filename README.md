@@ -1,6 +1,6 @@
 ## Hi there 👋 Here is Koting.
 
-### 💻🔭 Interesting
+### 🔭 Interesting
 
 - LLM architecture, Research, LLM, NLP, AI, ML (Python);
 - GameDev (C#);
