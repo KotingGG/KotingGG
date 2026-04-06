@@ -2,7 +2,7 @@
 
 ### 🔭 Interesting
 
-- LLM architecture, Research, LLM, NLP, AI, ML (Python);
+- LLM architecture, Research, LLM, NLP, ML, AI(Python);
 - GameDev (C#);
 - Sports/Olympic programming (C++);
 
