@@ -9,5 +9,5 @@
 
 ### My stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ResInferrer&theme=dark)](https://git.io/streak-stats)
+![ResInferrer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ResInferrer&show_icons=true&theme=radical)
 
