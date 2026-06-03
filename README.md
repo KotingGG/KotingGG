@@ -9,5 +9,5 @@
 
 ### My stats:
 
-![ResInferrer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ResInferrer&show_icons=true&theme=radical)
+![Test's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
