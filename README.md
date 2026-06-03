@@ -9,4 +9,4 @@
 
 ### My stats:
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ResInferrer&show_icons=true&theme=cobalt)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ResInferrer&show_icons=true&theme=synthwave)
